@@ -1,7 +1,9 @@
-vim-grsecurity
-==============
+vim-gradm
+=========
 
-Provide syntax highlighting for:
+Gradm is a userland tool provided by Brad Spengler to manage the RBAC mode of Grsecurity (https://grsecurity.net).
+
+This plugin provides syntax highlighting and filetype detection for:
 - policy file (typically `/etc/grsec/policy`)
 - learning heuristics (typically `/etc/grsec/learn_config`)
 
