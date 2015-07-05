@@ -12,7 +12,8 @@ to bring more features, fix bugs, update to the newest syntax.
 Installation
 ============
 
-_Raw installation:_ copy the `syntax` and `ftdetect` folders (and their contents) in your vim's runtimepath (by default `$HOME/.vim`).
+_Raw installation:_
+- copy the `syntax` and `ftdetect` folders (and their contents) in your vim's runtimepath (by default `$HOME/.vim`).
 
 _With vundle:_
 - install vundle: https://github.com/gmarik/vundle;
